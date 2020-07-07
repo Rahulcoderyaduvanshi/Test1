@@ -1,0 +1,66 @@
+public class vowel1
+{
+    public void show()
+    {
+        string vowels='a';
+        /*string vowels='e';
+            string vowels='i';
+            string vowels='o';
+            string vowels='u';
+            string vowels='A';
+            string vowels='E';
+            string vowels='I';
+            string vowels='O';
+            string vowels='U';*/
+         switch on vowels
+         {
+             when 'a'
+             {
+                 system.debug('vowel');
+             }
+             when 'e'
+             {
+                 system.debug('vowel');
+             }
+             when 'i'
+             {
+                 system.debug('vowel');
+             }
+             when 'o'
+             {
+                 system.debug('vowel');
+             }
+             when 'u'
+             {
+                 system.debug('vowel');
+             }
+             when 'A'
+             {
+                 system.debug('vowel');
+             }
+             when 'E'
+             {
+                 system.debug('vowel');
+             }
+             when 'I'
+             {
+                 system.debug('vowel');
+             }
+             when 'O'
+             {
+                 system.debug('vowel');
+             }
+             when 'U'
+             {
+                 system.debug('vowel');
+             }
+             when else
+             
+             {
+                 system.debug(' Non vowel');
+             }
+         }
+         
+    }
+
+}
